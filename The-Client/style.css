@@ -1,0 +1,102 @@
+header{
+    background-color: #0071bc;
+    color:#fff;
+    padding: .5rem;
+}
+header h1{
+    text-align: center;
+}
+header nav{
+    display: flex;
+    justify-content:baseline;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: right 60px;
+}
+header img{
+    width: 18%;
+    justify-content: flex-start;
+    align-items: center;
+}
+header nav {
+    margin: .75rem;
+    background-color:#006a65;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+header nav a{
+    color: #fff;
+}
+section a{
+    color: #d9e021
+}
+section{
+    background-color: #006a65;
+    Color: #fff;
+    padding: .5rem;
+    text-align: center;
+}
+
+.intro{
+    text-align: center;
+}
+.intro img{
+    width: 50%;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: .5rem;
+}
+.pics img{
+    margin: .5rem;
+    justify-content:space-between;
+}
+.volun img{
+    width: 35%;
+    justify-content: space-evenly;
+}
+footer{
+    background-color:#0071bc;
+    display: flex;
+    justify-content: space-between;
+   
+}
+footer nav a{
+    color: #fff;
+    Font-size: x-large;
+    margin: .5rem;
+
+}
+footer nav{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:space-between;
+    align-items: center;
+    border-bottom-color: #fff;
+}
+footer img{
+    width: 15%;
+    padding: 1rem;
+
+}
+.questions img{
+     width: 25%;
+}
+.stories img{
+    width: 50%;
+    margin: .5rem;
+    padding: .5rem;
+}
+.fur img{
+    width: 50%;
+    margin: .5rem;
+    padding: .5rem;
+}
+.space{
+    padding: 1rem;
+    margin: .5rem;
+}
+.shelter{
+    font-size: x-large;
+
+}
